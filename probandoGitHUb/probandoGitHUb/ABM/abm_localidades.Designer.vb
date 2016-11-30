@@ -47,7 +47,7 @@ Partial Class abm_localidades
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(536, 308)
+        Me.ClientSize = New System.Drawing.Size(809, 308)
         Me.Controls.Add(Me.ListBox1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "abm_localidades"
