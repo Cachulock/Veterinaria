@@ -38,9 +38,9 @@ Partial Class abm_localidades
         'ListBox1
         '
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.Location = New System.Drawing.Point(140, 50)
+        Me.ListBox1.Location = New System.Drawing.Point(144, 61)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(120, 95)
+        Me.ListBox1.Size = New System.Drawing.Size(216, 212)
         Me.ListBox1.TabIndex = 1
         '
         'abm_localidades
