@@ -106,6 +106,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ABM\abm_departamentos.resx">
+      <DependentUpon>abm_departamentos.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ABM\abm_localidades.resx">
       <DependentUpon>abm_localidades.vb</DependentUpon>
     </EmbeddedResource>
